@@ -6,7 +6,14 @@
     "name": "001 Polyethylene (high density); PE(HDPE)",
     "abbreviation": "PE(HDPE)",
     "category": "Polyolefin",
-    "type": "Homopolymer"
+    "type": "Homopolymer",
+    "page_1_image": "001_pg1.png",
+    "page_2_image": "001_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "002",
@@ -15,7 +22,14 @@
     "name": "002 Polypropylene(isotactic); iso-PP",
     "abbreviation": "iso-PP",
     "category": "Polyolefin",
-    "type": "Homopolymer"
+    "type": "Homopolymer",
+    "page_1_image": "002_pg1.png",
+    "page_2_image": "002_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "003",
@@ -24,7 +38,14 @@
     "name": "003 Polypropylene(atactic); at-PP",
     "abbreviation": "at-PP",
     "category": "Polyolefin",
-    "type": "Homopolymer"
+    "type": "Homopolymer",
+    "page_1_image": "003_pg1.png",
+    "page_2_image": "003_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "004",
@@ -33,7 +54,14 @@
     "name": "004 Polypropylene (syndiotactic); syn-PP",
     "abbreviation": "syn-PP",
     "category": "Polyolefin",
-    "type": "Homopolymer"
+    "type": "Homopolymer",
+    "page_1_image": "004_pg1.png",
+    "page_2_image": "004_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "005",
@@ -42,7 +70,14 @@
     "name": "005 Polybutene-1 (isotactic)",
     "abbreviation": "(isotactic)",
     "category": "Polyolefin",
-    "type": "Homopolymer"
+    "type": "Homopolymer",
+    "page_1_image": "005_pg1.png",
+    "page_2_image": "005_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "006",
@@ -51,7 +86,14 @@
     "name": "006 Poly(4-methyl-1-pentene); PMP",
     "abbreviation": "PMP",
     "category": "Other",
-    "type": "Other"
+    "type": "Other",
+    "page_1_image": "006_pg1.png",
+    "page_2_image": "006_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "007",
@@ -60,7 +102,14 @@
     "name": "007 Isobutylene-isoprene rubber; IIR",
     "abbreviation": "IIR",
     "category": "Rubber",
-    "type": "Rubber"
+    "type": "Rubber",
+    "page_1_image": "007_pg1.png",
+    "page_2_image": "007_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "008",
@@ -69,7 +118,14 @@
     "name": "008 Ethylene-propylene copolymer; P(E-P)",
     "abbreviation": "P(E-P)",
     "category": "Other",
-    "type": "Copolymer"
+    "type": "Copolymer",
+    "page_1_image": "008_pg1.png",
+    "page_2_image": "008_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "009",
@@ -78,7 +134,14 @@
     "name": "009 Ethylene-propylene-diene rubber; EPDM",
     "abbreviation": "EPDM",
     "category": "Rubber",
-    "type": "Rubber"
+    "type": "Rubber",
+    "page_1_image": "009_pg1.png",
+    "page_2_image": "009_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "010",
@@ -87,7 +150,14 @@
     "name": "010 Ethylene-methyl methacrylate copolymer; P(E-MMA)",
     "abbreviation": "P(E-MMA)",
     "category": "Acrylic",
-    "type": "Copolymer"
+    "type": "Copolymer",
+    "page_1_image": "010_pg1.png",
+    "page_2_image": "010_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "011",
@@ -96,7 +166,14 @@
     "name": "011 Ethylene-acrylic acid copolymer; P(E-AA)",
     "abbreviation": "P(E-AA)",
     "category": "Acrylic",
-    "type": "Copolymer"
+    "type": "Copolymer",
+    "page_1_image": "011_pg1.png",
+    "page_2_image": "011_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "012",
@@ -105,7 +182,14 @@
     "name": "012 Ethylene-vinyl acetate copolymer; EVA",
     "abbreviation": "EVA",
     "category": "Vinyl",
-    "type": "Copolymer"
+    "type": "Copolymer",
+    "page_1_image": "012_pg1.png",
+    "page_2_image": "012_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "013",
@@ -114,7 +198,14 @@
     "name": "013 Ethylene-ethyl acrylate copolymer; P(E-EA)",
     "abbreviation": "P(E-EA)",
     "category": "Acrylic",
-    "type": "Copolymer"
+    "type": "Copolymer",
+    "page_1_image": "013_pg1.png",
+    "page_2_image": "013_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "014",
@@ -123,7 +214,14 @@
     "name": "014 Ethylene-vinyl alcohol copolymer; P(E-VA)",
     "abbreviation": "P(E-VA)",
     "category": "Vinyl",
-    "type": "Copolymer"
+    "type": "Copolymer",
+    "page_1_image": "014_pg1.png",
+    "page_2_image": "014_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "015",
@@ -132,7 +230,14 @@
     "name": "015 Polyethylene ionomer; IO",
     "abbreviation": "IO",
     "category": "Polyolefin",
-    "type": "Homopolymer"
+    "type": "Homopolymer",
+    "page_1_image": "015_pg1.png",
+    "page_2_image": "015_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "016",
@@ -141,7 +246,14 @@
     "name": "016 Polystyrene; PS",
     "abbreviation": "PS",
     "category": "Styrenic",
-    "type": "Homopolymer"
+    "type": "Homopolymer",
+    "page_1_image": "016_pg1.png",
+    "page_2_image": "016_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "017",
@@ -150,7 +262,14 @@
     "name": "017 Styrene-methyl acrylate copolymer; P(S-MA)",
     "abbreviation": "P(S-MA)",
     "category": "Styrenic",
-    "type": "Copolymer"
+    "type": "Copolymer",
+    "page_1_image": "017_pg1.png",
+    "page_2_image": "017_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "018",
@@ -159,7 +278,14 @@
     "name": "018 Styrene-methyl acrylate alternating copolymer",
     "abbreviation": "copolymer",
     "category": "Styrenic",
-    "type": "Copolymer"
+    "type": "Copolymer",
+    "page_1_image": "018_pg1.png",
+    "page_2_image": "018_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "019",
@@ -168,7 +294,14 @@
     "name": "019 Styrene-methyl methacrylate copolymer; P(S-MMA)",
     "abbreviation": "P(S-MMA)",
     "category": "Styrenic",
-    "type": "Copolymer"
+    "type": "Copolymer",
+    "page_1_image": "019_pg1.png",
+    "page_2_image": "019_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "020",
@@ -177,7 +310,14 @@
     "name": "020 Styrene-methyl methacrylate alternating copolymer",
     "abbreviation": "",
     "category": "Styrenic",
-    "type": "Copolymer"
+    "type": "Copolymer",
+    "page_1_image": "020_pg1.png",
+    "page_2_image": "020_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "021",
@@ -186,7 +326,14 @@
     "name": "021 Methyl methacrylate-butadiene-styrene copolymer; MBS",
     "abbreviation": "MBS",
     "category": "Rubber",
-    "type": "Copolymer"
+    "type": "Copolymer",
+    "page_1_image": "021_pg1.png",
+    "page_2_image": "021_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "022",
@@ -195,7 +342,14 @@
     "name": "022 Acrylonitrile-styrene copolymer; AS",
     "abbreviation": "AS",
     "category": "Styrenic",
-    "type": "Copolymer"
+    "type": "Copolymer",
+    "page_1_image": "022_pg1.png",
+    "page_2_image": "022_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "023",
@@ -204,7 +358,14 @@
     "name": "023 Acrylonitrile-styrene alternating copolymer",
     "abbreviation": "",
     "category": "Styrenic",
-    "type": "Copolymer"
+    "type": "Copolymer",
+    "page_1_image": "023_pg1.png",
+    "page_2_image": "023_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "024",
@@ -213,7 +374,14 @@
     "name": "024 Acrylonitrile-butadiene-styrene copolymer; ABS",
     "abbreviation": "ABS",
     "category": "Rubber",
-    "type": "Copolymer"
+    "type": "Copolymer",
+    "page_1_image": "024_pg1.png",
+    "page_2_image": "024_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "025",
@@ -222,7 +390,14 @@
     "name": "025 Acrylonitrile-acrylate-styrene copolymer; AAS",
     "abbreviation": "AAS",
     "category": "Styrenic",
-    "type": "Copolymer"
+    "type": "Copolymer",
+    "page_1_image": "025_pg1.png",
+    "page_2_image": "025_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "026",
@@ -231,7 +406,14 @@
     "name": "026 Acrylonitrile-EPDM-styrene copolymer; AES",
     "abbreviation": "AES",
     "category": "Styrenic",
-    "type": "Copolymer"
+    "type": "Copolymer",
+    "page_1_image": "026_pg1.png",
+    "page_2_image": "026_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "027",
@@ -240,7 +422,14 @@
     "name": "027 Styrene-maleic anhydride copolymer; P(S-Mah)",
     "abbreviation": "P(S-Mah)",
     "category": "Styrenic",
-    "type": "Copolymer"
+    "type": "Copolymer",
+    "page_1_image": "027_pg1.png",
+    "page_2_image": "027_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "028",
@@ -249,7 +438,14 @@
     "name": "028 Styrene-divinylbenzene copolymer; P(S-DVB)",
     "abbreviation": "P(S-DVB)",
     "category": "Styrenic",
-    "type": "Copolymer"
+    "type": "Copolymer",
+    "page_1_image": "028_pg1.png",
+    "page_2_image": "028_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "029",
@@ -258,7 +454,14 @@
     "name": "029 Poly(a-methylstyrene); P-o-MS",
     "abbreviation": "P-o-MS",
     "category": "Styrenic",
-    "type": "Other"
+    "type": "Other",
+    "page_1_image": "029_pg1.png",
+    "page_2_image": "029_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "030",
@@ -267,7 +470,14 @@
     "name": "030 Polydivinylbenzene; PDVB",
     "abbreviation": "PDVB",
     "category": "Vinyl",
-    "type": "Other"
+    "type": "Other",
+    "page_1_image": "030_pg1.png",
+    "page_2_image": "030_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "031",
@@ -276,7 +486,14 @@
     "name": "031 Poly(p-chlorostyrene)",
     "abbreviation": "",
     "category": "Styrenic",
-    "type": "Other"
+    "type": "Other",
+    "page_1_image": "031_pg1.png",
+    "page_2_image": "031_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "032",
@@ -285,7 +502,14 @@
     "name": "032 Poly(p-methylstyrene); PMS",
     "abbreviation": "PMS",
     "category": "Styrenic",
-    "type": "Other"
+    "type": "Other",
+    "page_1_image": "032_pg1.png",
+    "page_2_image": "032_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "033",
@@ -294,7 +518,14 @@
     "name": "033 Poly(2-vinylpyridine)",
     "abbreviation": "",
     "category": "Vinyl",
-    "type": "Other"
+    "type": "Other",
+    "page_1_image": "033_pg1.png",
+    "page_2_image": "033_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "034",
@@ -303,7 +534,14 @@
     "name": "034 Acrylonitrile-p-chlorostyrene copolymer",
     "abbreviation": "",
     "category": "Styrenic",
-    "type": "Copolymer"
+    "type": "Copolymer",
+    "page_1_image": "034_pg1.png",
+    "page_2_image": "034_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "035",
@@ -312,7 +550,14 @@
     "name": "035 Chloromethylated styrene-divinylbenzene copolymer",
     "abbreviation": "",
     "category": "Styrenic",
-    "type": "Copolymer"
+    "type": "Copolymer",
+    "page_1_image": "035_pg1.png",
+    "page_2_image": "035_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "036",
@@ -321,7 +566,14 @@
     "name": "036 Poly(methyl methacrylate); PMMA",
     "abbreviation": "PMMA",
     "category": "Acrylic",
-    "type": "Other"
+    "type": "Other",
+    "page_1_image": "036_pg1.png",
+    "page_2_image": "036_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "037",
@@ -330,7 +582,14 @@
     "name": "037 Poly(n-butyl methacrylate); PBMA",
     "abbreviation": "PBMA",
     "category": "Acrylic",
-    "type": "Other"
+    "type": "Other",
+    "page_1_image": "037_pg1.png",
+    "page_2_image": "037_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "038",
@@ -339,7 +598,14 @@
     "name": "038 Poly(2-hydroxyethyl methacrylate); PHEMA",
     "abbreviation": "PHEMA",
     "category": "Acrylic",
-    "type": "Other"
+    "type": "Other",
+    "page_1_image": "038_pg1.png",
+    "page_2_image": "038_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "039",
@@ -348,7 +614,14 @@
     "name": "039 Poly(methyl acrylate); PMA",
     "abbreviation": "PMA",
     "category": "Acrylic",
-    "type": "Other"
+    "type": "Other",
+    "page_1_image": "039_pg1.png",
+    "page_2_image": "039_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "040",
@@ -357,7 +630,14 @@
     "name": "040 Poly(ethyl acrylate); PEA",
     "abbreviation": "PEA",
     "category": "Acrylic",
-    "type": "Other"
+    "type": "Other",
+    "page_1_image": "040_pg1.png",
+    "page_2_image": "040_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "041",
@@ -366,7 +646,14 @@
     "name": "041 Poly(butyl acrylate); PBA",
     "abbreviation": "PBA",
     "category": "Acrylic",
-    "type": "Other"
+    "type": "Other",
+    "page_1_image": "041_pg1.png",
+    "page_2_image": "041_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "042",
@@ -375,7 +662,14 @@
     "name": "042 Poly(acrylic acid; isotactic); PAA",
     "abbreviation": "PAA",
     "category": "Acrylic",
-    "type": "Other"
+    "type": "Other",
+    "page_1_image": "042_pg1.png",
+    "page_2_image": "042_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "043",
@@ -384,7 +678,14 @@
     "name": "043 Methyl methacrylate-methyl acrylate copolymer; P(MMA-MA)",
     "abbreviation": "P(MMA-MA)",
     "category": "Acrylic",
-    "type": "Copolymer"
+    "type": "Copolymer",
+    "page_1_image": "043_pg1.png",
+    "page_2_image": "043_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "044",
@@ -393,7 +694,14 @@
     "name": "044 Higher methacrylate copolymer",
     "abbreviation": "",
     "category": "Acrylic",
-    "type": "Copolymer"
+    "type": "Copolymer",
+    "page_1_image": "044_pg1.png",
+    "page_2_image": "044_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "045",
@@ -402,7 +710,14 @@
     "name": "045 Acrylic rubber; ACM",
     "abbreviation": "ACM",
     "category": "Rubber",
-    "type": "Rubber"
+    "type": "Rubber",
+    "page_1_image": "045_pg1.png",
+    "page_2_image": "045_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "046",
@@ -411,7 +726,14 @@
     "name": "046 Polyacrylonitrile; PAN",
     "abbreviation": "PAN",
     "category": "Other",
-    "type": "Other"
+    "type": "Other",
+    "page_1_image": "046_pg1.png",
+    "page_2_image": "046_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "047",
@@ -420,7 +742,14 @@
     "name": "047 Acrylonitrile-methyl acrylate copolymer",
     "abbreviation": "",
     "category": "Acrylic",
-    "type": "Copolymer"
+    "type": "Copolymer",
+    "page_1_image": "047_pg1.png",
+    "page_2_image": "047_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "048",
@@ -429,7 +758,14 @@
     "name": "048 Polyacrylamide; PAAm",
     "abbreviation": "PAAm",
     "category": "Other",
-    "type": "Other"
+    "type": "Other",
+    "page_1_image": "048_pg1.png",
+    "page_2_image": "048_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "049",
@@ -438,7 +774,14 @@
     "name": "049 Poly(maleic anhydride); PMAH",
     "abbreviation": "PMAH",
     "category": "Other",
-    "type": "Other"
+    "type": "Other",
+    "page_1_image": "049_pg1.png",
+    "page_2_image": "049_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "050",
@@ -447,7 +790,14 @@
     "name": "050 Poly(vinyl chloride); PVC",
     "abbreviation": "PVC",
     "category": "Vinyl",
-    "type": "Other"
+    "type": "Other",
+    "page_1_image": "050_pg1.png",
+    "page_2_image": "050_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "051",
@@ -456,7 +806,14 @@
     "name": "051 Vinyl chloride-vinylidene chloride copolymer; P(VC-VdC)",
     "abbreviation": "P(VC-VdC)",
     "category": "Vinyl",
-    "type": "Copolymer"
+    "type": "Copolymer",
+    "page_1_image": "051_pg1.png",
+    "page_2_image": "051_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "052",
@@ -465,7 +822,14 @@
     "name": "052 Chlorinated poly(vinyl chloride); CPVC",
     "abbreviation": "CPVC",
     "category": "Vinyl",
-    "type": "Other"
+    "type": "Other",
+    "page_1_image": "052_pg1.png",
+    "page_2_image": "052_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "053",
@@ -474,7 +838,14 @@
     "name": "053 Chlorinated polyethylene; CM",
     "abbreviation": "CM",
     "category": "Polyolefin",
-    "type": "Homopolymer"
+    "type": "Homopolymer",
+    "page_1_image": "053_pg1.png",
+    "page_2_image": "053_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "054",
@@ -483,7 +854,14 @@
     "name": "054 Vinyl chloride-vinyl acetate copolymer; P(VC-VAc)",
     "abbreviation": "P(VC-VAc)",
     "category": "Vinyl",
-    "type": "Copolymer"
+    "type": "Copolymer",
+    "page_1_image": "054_pg1.png",
+    "page_2_image": "054_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "055",
@@ -492,7 +870,14 @@
     "name": "055 Chlorosulfonated polyethylene; CSM",
     "abbreviation": "CSM",
     "category": "Polyolefin",
-    "type": "Homopolymer"
+    "type": "Homopolymer",
+    "page_1_image": "055_pg1.png",
+    "page_2_image": "055_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "056",
@@ -501,7 +886,14 @@
     "name": "056 Acrylonitrile-vinyl chloride copolymer; P(AN-VC)",
     "abbreviation": "P(AN-VC)",
     "category": "Vinyl",
-    "type": "Copolymer"
+    "type": "Copolymer",
+    "page_1_image": "056_pg1.png",
+    "page_2_image": "056_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "057",
@@ -510,7 +902,14 @@
     "name": "057 Acrylonitrile-vinyl chloride alternating copolymer",
     "abbreviation": "",
     "category": "Vinyl",
-    "type": "Copolymer"
+    "type": "Copolymer",
+    "page_1_image": "057_pg1.png",
+    "page_2_image": "057_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "058",
@@ -519,7 +918,14 @@
     "name": "058 Methyl acrylate-vinyl chloride copolymer; P(MA-VC)",
     "abbreviation": "P(MA-VC)",
     "category": "Acrylic",
-    "type": "Copolymer"
+    "type": "Copolymer",
+    "page_1_image": "058_pg1.png",
+    "page_2_image": "058_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "059",
@@ -528,7 +934,14 @@
     "name": "059 Methyl acrylate-vinyl chloride alternating copolymer",
     "abbreviation": "",
     "category": "Acrylic",
-    "type": "Copolymer"
+    "type": "Copolymer",
+    "page_1_image": "059_pg1.png",
+    "page_2_image": "059_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "060",
@@ -537,7 +950,14 @@
     "name": "060 Polytetrafluoroethylene; PTFE",
     "abbreviation": "PTFE",
     "category": "Fluoropolymer",
-    "type": "Other"
+    "type": "Other",
+    "page_1_image": "060_pg1.png",
+    "page_2_image": "060_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "061",
@@ -546,7 +966,14 @@
     "name": "061 Tetrafluoroethylene-hexafluoropropylene copolymer; FEP",
     "abbreviation": "FEP",
     "category": "Fluoropolymer",
-    "type": "Copolymer"
+    "type": "Copolymer",
+    "page_1_image": "061_pg1.png",
+    "page_2_image": "061_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "062",
@@ -555,7 +982,14 @@
     "name": "062 Polychlorotrifluoroethylene; PCTFE",
     "abbreviation": "PCTFE",
     "category": "Fluoropolymer",
-    "type": "Other"
+    "type": "Other",
+    "page_1_image": "062_pg1.png",
+    "page_2_image": "062_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "063",
@@ -564,7 +998,14 @@
     "name": "063 Poly(vinyl fluoride); PVF",
     "abbreviation": "PVF",
     "category": "Vinyl",
-    "type": "Other"
+    "type": "Other",
+    "page_1_image": "063_pg1.png",
+    "page_2_image": "063_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "064",
@@ -573,7 +1014,14 @@
     "name": "064 Poly(vinylidene fluoride); PVDF",
     "abbreviation": "PVDF",
     "category": "Vinyl",
-    "type": "Other"
+    "type": "Other",
+    "page_1_image": "064_pg1.png",
+    "page_2_image": "064_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "065",
@@ -582,7 +1030,14 @@
     "name": "065 Vinylidene fluoride-hexafluoropropylene rubber",
     "abbreviation": "",
     "category": "Rubber",
-    "type": "Rubber"
+    "type": "Rubber",
+    "page_1_image": "065_pg1.png",
+    "page_2_image": "065_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "066",
@@ -591,7 +1046,14 @@
     "name": "066 Propylene-tetrafluoroethylene rubber",
     "abbreviation": "",
     "category": "Rubber",
-    "type": "Rubber"
+    "type": "Rubber",
+    "page_1_image": "066_pg1.png",
+    "page_2_image": "066_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "067",
@@ -600,7 +1062,14 @@
     "name": "067 Poly(vinyl alcohol); PVA",
     "abbreviation": "PVA",
     "category": "Vinyl",
-    "type": "Other"
+    "type": "Other",
+    "page_1_image": "067_pg1.png",
+    "page_2_image": "067_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "068",
@@ -609,7 +1078,14 @@
     "name": "068 Poly(vinyl butyral); PVB",
     "abbreviation": "PVB",
     "category": "Vinyl",
-    "type": "Other"
+    "type": "Other",
+    "page_1_image": "068_pg1.png",
+    "page_2_image": "068_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "069",
@@ -618,7 +1094,14 @@
     "name": "069 Poly(vinyl acetate); PVAc",
     "abbreviation": "PVAc",
     "category": "Vinyl",
-    "type": "Other"
+    "type": "Other",
+    "page_1_image": "069_pg1.png",
+    "page_2_image": "069_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "070",
@@ -627,7 +1110,14 @@
     "name": "070 Poly(vinyl pyrrolidone); PVP",
     "abbreviation": "PVP",
     "category": "Vinyl",
-    "type": "Other"
+    "type": "Other",
+    "page_1_image": "070_pg1.png",
+    "page_2_image": "070_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "071",
@@ -636,7 +1126,14 @@
     "name": "071 High cis-butadiene rubber; BR",
     "abbreviation": "BR",
     "category": "Rubber",
-    "type": "Rubber"
+    "type": "Rubber",
+    "page_1_image": "071_pg1.png",
+    "page_2_image": "071_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "072",
@@ -645,7 +1142,14 @@
     "name": "072 Poly(1,2-butadiene)",
     "abbreviation": "",
     "category": "Rubber",
-    "type": "Other"
+    "type": "Other",
+    "page_1_image": "072_pg1.png",
+    "page_2_image": "072_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "073",
@@ -654,7 +1158,14 @@
     "name": "073 Natural rubber; NR",
     "abbreviation": "NR",
     "category": "Rubber",
-    "type": "Rubber"
+    "type": "Rubber",
+    "page_1_image": "073_pg1.png",
+    "page_2_image": "073_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "074",
@@ -663,7 +1174,14 @@
     "name": "074 Chloroprene rubber; CR",
     "abbreviation": "CR",
     "category": "Rubber",
-    "type": "Rubber"
+    "type": "Rubber",
+    "page_1_image": "074_pg1.png",
+    "page_2_image": "074_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "075",
@@ -672,7 +1190,14 @@
     "name": "075 Hydrogenated natural rubber",
     "abbreviation": "",
     "category": "Rubber",
-    "type": "Rubber"
+    "type": "Rubber",
+    "page_1_image": "075_pg1.png",
+    "page_2_image": "075_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "076",
@@ -681,7 +1206,14 @@
     "name": "076 Acrylonitrile-butadiene rubber; NBR",
     "abbreviation": "NBR",
     "category": "Rubber",
-    "type": "Rubber"
+    "type": "Rubber",
+    "page_1_image": "076_pg1.png",
+    "page_2_image": "076_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "077",
@@ -690,7 +1222,14 @@
     "name": "077 Hydrogenated acrylonitrile-butadiene rubber",
     "abbreviation": "",
     "category": "Rubber",
-    "type": "Rubber"
+    "type": "Rubber",
+    "page_1_image": "077_pg1.png",
+    "page_2_image": "077_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "078",
@@ -699,7 +1238,14 @@
     "name": "078 Polynorbornene",
     "abbreviation": "",
     "category": "Other",
-    "type": "Other"
+    "type": "Other",
+    "page_1_image": "078_pg1.png",
+    "page_2_image": "078_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "079",
@@ -708,7 +1254,14 @@
     "name": "079 Styrene-butadiene rubber; SBR",
     "abbreviation": "SBR",
     "category": "Rubber",
-    "type": "Rubber"
+    "type": "Rubber",
+    "page_1_image": "079_pg1.png",
+    "page_2_image": "079_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "080",
@@ -717,7 +1270,14 @@
     "name": "080 Styrene-butadiene-styrene block copolymer; SBS(TPS)",
     "abbreviation": "SBS(TPS)",
     "category": "Rubber",
-    "type": "Copolymer"
+    "type": "Copolymer",
+    "page_1_image": "080_pg1.png",
+    "page_2_image": "080_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "081",
@@ -726,7 +1286,14 @@
     "name": "081 Styrene-ethylene-butadiene-styrene block copolymer;",
     "abbreviation": "",
     "category": "Rubber",
-    "type": "Copolymer"
+    "type": "Copolymer",
+    "page_1_image": "081_pg1.png",
+    "page_2_image": "081_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "082",
@@ -735,7 +1302,14 @@
     "name": "082 Polycaproamide; Nylon-6",
     "abbreviation": "Nylon-6",
     "category": "Amide",
-    "type": "Other"
+    "type": "Other",
+    "page_1_image": "082_pg1.png",
+    "page_2_image": "082_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "083",
@@ -744,7 +1318,14 @@
     "name": "083 Polyundecanoamide; Nylon-11",
     "abbreviation": "Nylon-11",
     "category": "Amide",
-    "type": "Other"
+    "type": "Other",
+    "page_1_image": "083_pg1.png",
+    "page_2_image": "083_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "084",
@@ -753,7 +1334,14 @@
     "name": "084 Polylauroamide; Nylon-12",
     "abbreviation": "Nylon-12",
     "category": "Amide",
-    "type": "Other"
+    "type": "Other",
+    "page_1_image": "084_pg1.png",
+    "page_2_image": "084_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "085",
@@ -762,7 +1350,14 @@
     "name": "085 Poly(tetramethylene adipamide); Nylon-4,6",
     "abbreviation": "Nylon-4,6",
     "category": "Amide",
-    "type": "Other"
+    "type": "Other",
+    "page_1_image": "085_pg1.png",
+    "page_2_image": "085_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "086",
@@ -771,7 +1366,14 @@
     "name": "086 Poly(hexamethylene adipamide); Nylon-6,6",
     "abbreviation": "Nylon-6,6",
     "category": "Amide",
-    "type": "Other"
+    "type": "Other",
+    "page_1_image": "086_pg1.png",
+    "page_2_image": "086_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "087",
@@ -780,7 +1382,14 @@
     "name": "087 Poly(hexamethylene sebacamide); Nylon-6,10",
     "abbreviation": "Nylon-6,10",
     "category": "Amide",
-    "type": "Other"
+    "type": "Other",
+    "page_1_image": "087_pg1.png",
+    "page_2_image": "087_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "088",
@@ -789,7 +1398,14 @@
     "name": "088 Poly(dodecamethylene adipamide); Nylon-12,6",
     "abbreviation": "Nylon-12,6",
     "category": "Amide",
-    "type": "Other"
+    "type": "Other",
+    "page_1_image": "088_pg1.png",
+    "page_2_image": "088_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "089",
@@ -798,7 +1414,14 @@
     "name": "089 Caproamide-hexamethylene adipamide copolymer; Nylon-6/66",
     "abbreviation": "Nylon-6/66",
     "category": "Amide",
-    "type": "Copolymer"
+    "type": "Copolymer",
+    "page_1_image": "089_pg1.png",
+    "page_2_image": "089_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "090",
@@ -807,7 +1430,14 @@
     "name": "090 Poly(m-xylene adipamide); Nylon-MXD6",
     "abbreviation": "Nylon-MXD6",
     "category": "Amide",
-    "type": "Other"
+    "type": "Other",
+    "page_1_image": "090_pg1.png",
+    "page_2_image": "090_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "091",
@@ -816,7 +1446,14 @@
     "name": "091 Polyoxymethylene; POM",
     "abbreviation": "POM",
     "category": "Other",
-    "type": "Other"
+    "type": "Other",
+    "page_1_image": "091_pg1.png",
+    "page_2_image": "091_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "092",
@@ -825,7 +1462,14 @@
     "name": "092 Polyoxymethylene(copolymer)",
     "abbreviation": "",
     "category": "Other",
-    "type": "Copolymer"
+    "type": "Copolymer",
+    "page_1_image": "092_pg1.png",
+    "page_2_image": "092_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "093",
@@ -834,7 +1478,14 @@
     "name": "093 Poly(ethylene oxide)",
     "abbreviation": "",
     "category": "Other",
-    "type": "Other"
+    "type": "Other",
+    "page_1_image": "093_pg1.png",
+    "page_2_image": "093_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "094",
@@ -843,7 +1494,14 @@
     "name": "094 Epichlorohydrin rubber; CHR",
     "abbreviation": "CHR",
     "category": "Rubber",
-    "type": "Rubber"
+    "type": "Rubber",
+    "page_1_image": "094_pg1.png",
+    "page_2_image": "094_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "095",
@@ -852,7 +1510,14 @@
     "name": "095 Epichlorohydrin-ethylene oxide rubber; CHC",
     "abbreviation": "CHC",
     "category": "Rubber",
-    "type": "Rubber"
+    "type": "Rubber",
+    "page_1_image": "095_pg1.png",
+    "page_2_image": "095_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "096",
@@ -861,7 +1526,14 @@
     "name": "096 Phenol formaldehyde resin (novolak); PF",
     "abbreviation": "PF",
     "category": "Other",
-    "type": "Other"
+    "type": "Other",
+    "page_1_image": "096_pg1.png",
+    "page_2_image": "096_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "097",
@@ -870,7 +1542,14 @@
     "name": "097 Phenol formaldehyde resin (resol); PF",
     "abbreviation": "PF",
     "category": "Other",
-    "type": "Other"
+    "type": "Other",
+    "page_1_image": "097_pg1.png",
+    "page_2_image": "097_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "098",
@@ -879,7 +1558,14 @@
     "name": "098 Cresol formaldehyde resin (novolak)",
     "abbreviation": "",
     "category": "Other",
-    "type": "Other"
+    "type": "Other",
+    "page_1_image": "098_pg1.png",
+    "page_2_image": "098_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "099",
@@ -888,7 +1574,14 @@
     "name": "099 Diallyl phthalate resin; DAP",
     "abbreviation": "DAP",
     "category": "Other",
-    "type": "Other"
+    "type": "Other",
+    "page_1_image": "099_pg1.png",
+    "page_2_image": "099_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "100",
@@ -897,7 +1590,14 @@
     "name": "100 Poly(ethylene glycol bisallyl carbonate); CR-39",
     "abbreviation": "CR-39",
     "category": "Carbon-based",
-    "type": "Other"
+    "type": "Other",
+    "page_1_image": "100_pg1.png",
+    "page_2_image": "100_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "101",
@@ -906,7 +1606,14 @@
     "name": "101 Urea formaldehyde resin; UF",
     "abbreviation": "UF",
     "category": "Other",
-    "type": "Other"
+    "type": "Other",
+    "page_1_image": "101_pg1.png",
+    "page_2_image": "101_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "102",
@@ -915,7 +1622,14 @@
     "name": "102 Melamine formaldehyde resin; MF",
     "abbreviation": "MF",
     "category": "Other",
-    "type": "Other"
+    "type": "Other",
+    "page_1_image": "102_pg1.png",
+    "page_2_image": "102_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "103",
@@ -924,7 +1638,14 @@
     "name": "103 Xylene resin",
     "abbreviation": "",
     "category": "Other",
-    "type": "Other"
+    "type": "Other",
+    "page_1_image": "103_pg1.png",
+    "page_2_image": "103_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "104",
@@ -933,7 +1654,14 @@
     "name": "104 Unsaturated polyester; UP",
     "abbreviation": "UP",
     "category": "Polyester",
-    "type": "Other"
+    "type": "Other",
+    "page_1_image": "104_pg1.png",
+    "page_2_image": "104_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "105",
@@ -942,7 +1670,14 @@
     "name": "105 Epoxy resin; EP",
     "abbreviation": "EP",
     "category": "Other",
-    "type": "Other"
+    "type": "Other",
+    "page_1_image": "105_pg1.png",
+    "page_2_image": "105_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "106",
@@ -951,7 +1686,14 @@
     "name": "106 Brominated epoxy resin.",
     "abbreviation": "",
     "category": "Other",
-    "type": "Other"
+    "type": "Other",
+    "page_1_image": "106_pg1.png",
+    "page_2_image": "106_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "107",
@@ -960,7 +1702,14 @@
     "name": "107 Bismaleimide triazine resin; BT resin",
     "abbreviation": "BT resin",
     "category": "Other",
-    "type": "Other"
+    "type": "Other",
+    "page_1_image": "107_pg1.png",
+    "page_2_image": "107_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "108",
@@ -969,7 +1718,14 @@
     "name": "108 Polyetherimide; PEI",
     "abbreviation": "PEI",
     "category": "Other",
-    "type": "Other"
+    "type": "Other",
+    "page_1_image": "108_pg1.png",
+    "page_2_image": "108_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "109",
@@ -978,7 +1734,14 @@
     "name": "109 Polypyromellitimide; Pl",
     "abbreviation": "Pl",
     "category": "Other",
-    "type": "Other"
+    "type": "Other",
+    "page_1_image": "109_pg1.png",
+    "page_2_image": "109_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "110",
@@ -987,7 +1750,14 @@
     "name": "110 Polyaminobismaleimide; PABM",
     "abbreviation": "PABM",
     "category": "Other",
-    "type": "Other"
+    "type": "Other",
+    "page_1_image": "110_pg1.png",
+    "page_2_image": "110_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "111",
@@ -996,7 +1766,14 @@
     "name": "111 Polyamideimide; PAI",
     "abbreviation": "PAI",
     "category": "Amide",
-    "type": "Other"
+    "type": "Other",
+    "page_1_image": "111_pg1.png",
+    "page_2_image": "111_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "112",
@@ -1005,7 +1782,14 @@
     "name": "112 Poly(p-phenylene terephthalamide); Keviar",
     "abbreviation": "Keviar",
     "category": "Other",
-    "type": "Other"
+    "type": "Other",
+    "page_1_image": "112_pg1.png",
+    "page_2_image": "112_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "113",
@@ -1014,7 +1798,14 @@
     "name": "113 Poly(m-phenylene isophthalamide); Nomex",
     "abbreviation": "Nomex",
     "category": "Other",
-    "type": "Other"
+    "type": "Other",
+    "page_1_image": "113_pg1.png",
+    "page_2_image": "113_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "114",
@@ -1023,7 +1814,14 @@
     "name": "114 Poly(p-phenylene/3,4-diphenylene ether terephthalamide)",
     "abbreviation": "",
     "category": "Other",
-    "type": "Other"
+    "type": "Other",
+    "page_1_image": "114_pg1.png",
+    "page_2_image": "114_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "115",
@@ -1032,7 +1830,14 @@
     "name": "115 Poly(ethylene terephthalate); PET",
     "abbreviation": "PET",
     "category": "Polyester",
-    "type": "Other"
+    "type": "Other",
+    "page_1_image": "115_pg1.png",
+    "page_2_image": "115_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "116",
@@ -1041,7 +1846,14 @@
     "name": "116 Poly(butylene terephthalate); PBT",
     "abbreviation": "PBT",
     "category": "Polyester",
-    "type": "Other"
+    "type": "Other",
+    "page_1_image": "116_pg1.png",
+    "page_2_image": "116_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "117",
@@ -1050,7 +1862,14 @@
     "name": "117 Poly(ethylene naphthalate); PEN",
     "abbreviation": "PEN",
     "category": "Other",
-    "type": "Other"
+    "type": "Other",
+    "page_1_image": "117_pg1.png",
+    "page_2_image": "117_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "118",
@@ -1059,7 +1878,14 @@
     "name": "118 Poly(p-hydroxybenzoic acid); type A",
     "abbreviation": "type A",
     "category": "Other",
-    "type": "Other"
+    "type": "Other",
+    "page_1_image": "118_pg1.png",
+    "page_2_image": "118_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "119",
@@ -1068,7 +1894,14 @@
     "name": "119 Poly(p-hydroxybenzoic acid); type B",
     "abbreviation": "type B",
     "category": "Other",
-    "type": "Other"
+    "type": "Other",
+    "page_1_image": "119_pg1.png",
+    "page_2_image": "119_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "120",
@@ -1077,7 +1910,14 @@
     "name": "120 Polyarylate; PAR",
     "abbreviation": "PAR",
     "category": "Other",
-    "type": "Other"
+    "type": "Other",
+    "page_1_image": "120_pg1.png",
+    "page_2_image": "120_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "121",
@@ -1086,7 +1926,14 @@
     "name": "121 Poly(1,4-cyclohexanedimethylene terephthalate)",
     "abbreviation": "",
     "category": "Polyester",
-    "type": "Other"
+    "type": "Other",
+    "page_1_image": "121_pg1.png",
+    "page_2_image": "121_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "122",
@@ -1095,7 +1942,14 @@
     "name": "122 Poly(lactic acid); PLA",
     "abbreviation": "PLA",
     "category": "Other",
-    "type": "Other"
+    "type": "Other",
+    "page_1_image": "122_pg1.png",
+    "page_2_image": "122_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "123",
@@ -1104,7 +1958,14 @@
     "name": "123 Poly(e-caprolactone); PCL",
     "abbreviation": "PCL",
     "category": "Other",
-    "type": "Other"
+    "type": "Other",
+    "page_1_image": "123_pg1.png",
+    "page_2_image": "123_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "124",
@@ -1113,7 +1974,14 @@
     "name": "124 Poly(butylene succinate / adipate); PBSA",
     "abbreviation": "PBSA",
     "category": "Other",
-    "type": "Other"
+    "type": "Other",
+    "page_1_image": "124_pg1.png",
+    "page_2_image": "124_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "125",
@@ -1122,7 +1990,14 @@
     "name": "125 Poly(3-hydroxybutylic acid); PHB",
     "abbreviation": "PHB",
     "category": "Other",
-    "type": "Other"
+    "type": "Other",
+    "page_1_image": "125_pg1.png",
+    "page_2_image": "125_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "126",
@@ -1131,7 +2006,14 @@
     "name": "126 Poly(butylene succinate / carbonate); PEC",
     "abbreviation": "PEC",
     "category": "Carbon-based",
-    "type": "Other"
+    "type": "Other",
+    "page_1_image": "126_pg1.png",
+    "page_2_image": "126_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "127",
@@ -1140,7 +2022,14 @@
     "name": "127 Polycarbonate(melt method); MM-PC",
     "abbreviation": "MM-PC",
     "category": "Carbon-based",
-    "type": "Other"
+    "type": "Other",
+    "page_1_image": "127_pg1.png",
+    "page_2_image": "127_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "128",
@@ -1149,7 +2038,14 @@
     "name": "128 Polycarbonate(solvent method); SM-PC",
     "abbreviation": "SM-PC",
     "category": "Carbon-based",
-    "type": "Other"
+    "type": "Other",
+    "page_1_image": "128_pg1.png",
+    "page_2_image": "128_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "129",
@@ -1158,7 +2054,14 @@
     "name": "129 Bisphenol Z polycarbonate",
     "abbreviation": "",
     "category": "Carbon-based",
-    "type": "Other"
+    "type": "Other",
+    "page_1_image": "129_pg1.png",
+    "page_2_image": "129_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "130",
@@ -1167,7 +2070,14 @@
     "name": "130 Polycarbonate (thermally stabilized)",
     "abbreviation": "",
     "category": "Carbon-based",
-    "type": "Other"
+    "type": "Other",
+    "page_1_image": "130_pg1.png",
+    "page_2_image": "130_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "131",
@@ -1176,7 +2086,14 @@
     "name": "131 Brominated polycarbonate; Br-PC",
     "abbreviation": "Br-PC",
     "category": "Carbon-based",
-    "type": "Other"
+    "type": "Other",
+    "page_1_image": "131_pg1.png",
+    "page_2_image": "131_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "132",
@@ -1185,7 +2102,14 @@
     "name": "132 Polysulfone; PSF",
     "abbreviation": "PSF",
     "category": "Other",
-    "type": "Other"
+    "type": "Other",
+    "page_1_image": "132_pg1.png",
+    "page_2_image": "132_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "133",
@@ -1194,7 +2118,14 @@
     "name": "133 Poly(phenylene oxide); PPO",
     "abbreviation": "PPO",
     "category": "Other",
-    "type": "Other"
+    "type": "Other",
+    "page_1_image": "133_pg1.png",
+    "page_2_image": "133_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "134",
@@ -1203,7 +2134,14 @@
     "name": "134 Modified poly(phenylene oxide); Modified PPO",
     "abbreviation": "Modified PPO",
     "category": "Other",
-    "type": "Other"
+    "type": "Other",
+    "page_1_image": "134_pg1.png",
+    "page_2_image": "134_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "135",
@@ -1212,7 +2150,14 @@
     "name": "135 Polyethersulfone; PESF",
     "abbreviation": "PESF",
     "category": "Other",
-    "type": "Other"
+    "type": "Other",
+    "page_1_image": "135_pg1.png",
+    "page_2_image": "135_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "136",
@@ -1221,7 +2166,14 @@
     "name": "136 Poly(ether ether ketone); PEEK",
     "abbreviation": "PEEK",
     "category": "Other",
-    "type": "Other"
+    "type": "Other",
+    "page_1_image": "136_pg1.png",
+    "page_2_image": "136_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "137",
@@ -1230,7 +2182,14 @@
     "name": "137 Poly(phenylene sulfide); PPS",
     "abbreviation": "PPS",
     "category": "Other",
-    "type": "Other"
+    "type": "Other",
+    "page_1_image": "137_pg1.png",
+    "page_2_image": "137_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "138",
@@ -1239,7 +2198,14 @@
     "name": "138 Poly(arylether nitrile); PEN",
     "abbreviation": "PEN",
     "category": "Other",
-    "type": "Other"
+    "type": "Other",
+    "page_1_image": "138_pg1.png",
+    "page_2_image": "138_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "139",
@@ -1248,7 +2214,14 @@
     "name": "139 Polydimethylsiloxane; PDMS",
     "abbreviation": "PDMS",
     "category": "Other",
-    "type": "Other"
+    "type": "Other",
+    "page_1_image": "139_pg1.png",
+    "page_2_image": "139_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "140",
@@ -1257,7 +2230,14 @@
     "name": "140 Polymethylphenylsiloxane; PMPS",
     "abbreviation": "PMPS",
     "category": "Other",
-    "type": "Other"
+    "type": "Other",
+    "page_1_image": "140_pg1.png",
+    "page_2_image": "140_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "141",
@@ -1266,7 +2246,14 @@
     "name": "141 Dimethylsiloxane-methylphenylsiloxane copolymer",
     "abbreviation": "",
     "category": "Other",
-    "type": "Copolymer"
+    "type": "Copolymer",
+    "page_1_image": "141_pg1.png",
+    "page_2_image": "141_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "142",
@@ -1275,7 +2262,14 @@
     "name": "142 Polymethylsilsesquioxane; PMSQ",
     "abbreviation": "PMSQ",
     "category": "Other",
-    "type": "Other"
+    "type": "Other",
+    "page_1_image": "142_pg1.png",
+    "page_2_image": "142_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "143",
@@ -1284,7 +2278,14 @@
     "name": "143 Poly(methyl-phenyl) silsesquioxane; PMPSQ",
     "abbreviation": "PMPSQ",
     "category": "Other",
-    "type": "Other"
+    "type": "Other",
+    "page_1_image": "143_pg1.png",
+    "page_2_image": "143_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "144",
@@ -1293,7 +2294,14 @@
     "name": "144 TDI-Polyester polyurethane; PU",
     "abbreviation": "PU",
     "category": "Polyester",
-    "type": "Other"
+    "type": "Other",
+    "page_1_image": "144_pg1.png",
+    "page_2_image": "144_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "145",
@@ -1302,7 +2310,14 @@
     "name": "145 TDI-Polyether polyurethane; PU",
     "abbreviation": "PU",
     "category": "Other",
-    "type": "Other"
+    "type": "Other",
+    "page_1_image": "145_pg1.png",
+    "page_2_image": "145_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "146",
@@ -1311,7 +2326,14 @@
     "name": "146 MDI-Polylactone polyurethane; PU",
     "abbreviation": "PU",
     "category": "Other",
-    "type": "Other"
+    "type": "Other",
+    "page_1_image": "146_pg1.png",
+    "page_2_image": "146_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "147",
@@ -1320,7 +2342,14 @@
     "name": "147 Urethane rubber; U",
     "abbreviation": "U",
     "category": "Rubber",
-    "type": "Rubber"
+    "type": "Rubber",
+    "page_1_image": "147_pg1.png",
+    "page_2_image": "147_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "148",
@@ -1329,7 +2358,14 @@
     "name": "148 Cellulose",
     "abbreviation": "",
     "category": "Natural",
-    "type": "Biopolymer"
+    "type": "Biopolymer",
+    "page_1_image": "148_pg1.png",
+    "page_2_image": "148_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "149",
@@ -1338,7 +2374,14 @@
     "name": "149 Methylcellulose; MC",
     "abbreviation": "MC",
     "category": "Natural",
-    "type": "Biopolymer"
+    "type": "Biopolymer",
+    "page_1_image": "149_pg1.png",
+    "page_2_image": "149_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "150",
@@ -1347,7 +2390,14 @@
     "name": "150 Ethylcellulose",
     "abbreviation": "",
     "category": "Natural",
-    "type": "Biopolymer"
+    "type": "Biopolymer",
+    "page_1_image": "150_pg1.png",
+    "page_2_image": "150_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "151",
@@ -1356,7 +2406,14 @@
     "name": "151 Cellulose acetate; CA",
     "abbreviation": "CA",
     "category": "Natural",
-    "type": "Biopolymer"
+    "type": "Biopolymer",
+    "page_1_image": "151_pg1.png",
+    "page_2_image": "151_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "152",
@@ -1365,7 +2422,14 @@
     "name": "152 Cellulose acetate-propionate; CAP",
     "abbreviation": "CAP",
     "category": "Natural",
-    "type": "Biopolymer"
+    "type": "Biopolymer",
+    "page_1_image": "152_pg1.png",
+    "page_2_image": "152_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "153",
@@ -1374,7 +2438,14 @@
     "name": "153 Cellulose acetate-butyrate; CAB",
     "abbreviation": "CAB",
     "category": "Natural",
-    "type": "Biopolymer"
+    "type": "Biopolymer",
+    "page_1_image": "153_pg1.png",
+    "page_2_image": "153_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "154",
@@ -1383,7 +2454,14 @@
     "name": "154 Hydroxyethylcellulose; HEC",
     "abbreviation": "HEC",
     "category": "Natural",
-    "type": "Biopolymer"
+    "type": "Biopolymer",
+    "page_1_image": "154_pg1.png",
+    "page_2_image": "154_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "155",
@@ -1392,7 +2470,14 @@
     "name": "155 Carboxymethyl cellulose; CMC",
     "abbreviation": "CMC",
     "category": "Natural",
-    "type": "Biopolymer"
+    "type": "Biopolymer",
+    "page_1_image": "155_pg1.png",
+    "page_2_image": "155_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "156",
@@ -1401,7 +2486,14 @@
     "name": "156 Glue",
     "abbreviation": "Glue",
     "category": "Other",
-    "type": "Other"
+    "type": "Other",
+    "page_1_image": "156_pg1.png",
+    "page_2_image": "156_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "157",
@@ -1410,7 +2502,14 @@
     "name": "157 Shellac",
     "abbreviation": "",
     "category": "Other",
-    "type": "Other"
+    "type": "Other",
+    "page_1_image": "157_pg1.png",
+    "page_2_image": "157_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "158",
@@ -1419,7 +2518,14 @@
     "name": "158 Chitin",
     "abbreviation": "Chitin",
     "category": "Natural",
-    "type": "Biopolymer"
+    "type": "Biopolymer",
+    "page_1_image": "158_pg1.png",
+    "page_2_image": "158_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "159",
@@ -1428,7 +2534,14 @@
     "name": "159 Chitosan",
     "abbreviation": "",
     "category": "Other",
-    "type": "Other"
+    "type": "Other",
+    "page_1_image": "159_pg1.png",
+    "page_2_image": "159_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "160",
@@ -1437,7 +2550,14 @@
     "name": "160 Ivory",
     "abbreviation": "Ivory",
     "category": "Natural",
-    "type": "Biopolymer"
+    "type": "Biopolymer",
+    "page_1_image": "160_pg1.png",
+    "page_2_image": "160_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "161",
@@ -1446,7 +2566,14 @@
     "name": "161 Synthetic lignin; DHP",
     "abbreviation": "DHP",
     "category": "Other",
-    "type": "Other"
+    "type": "Other",
+    "page_1_image": "161_pg1.png",
+    "page_2_image": "161_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "162",
@@ -1455,7 +2582,14 @@
     "name": "162 Wood powder",
     "abbreviation": "",
     "category": "Other",
-    "type": "Other"
+    "type": "Other",
+    "page_1_image": "162_pg1.png",
+    "page_2_image": "162_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   },
   {
     "id": "163",
@@ -1464,6 +2598,13 @@
     "name": "163 Gluten",
     "abbreviation": "Gluten",
     "category": "Natural",
-    "type": "Biopolymer"
+    "type": "Biopolymer",
+    "page_1_image": "163_pg1.png",
+    "page_2_image": "163_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "end": 500,
+      "peak": 400
+    }
   }
 ]
