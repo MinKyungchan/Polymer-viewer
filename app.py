@@ -1,31 +1,22 @@
-
-import json
 import streamlit as st
+import json
 from PIL import Image
 
-# 데이터 로드
 with open("polymer_data.json", "r") as f:
     data = json.load(f)
 
-# 사이드바
 st.sidebar.title("🔍 Polymer 검색")
-options = [f"{item['id']} - {item['name']}" for item in data]
-selection = st.sidebar.selectbox("폴리머를 선택하세요:", options)
+options = [f"{d['id']} - {d['name']}" for d in data]
+choice = st.sidebar.selectbox("폴리머를 선택하세요", options)
+selected = data[options.index(choice)]
 
-# 선택된 폴리머 정보
-polymer = data[options.index(selection)]
-st.title(f"🧪 {polymer['name']} ({polymer['abbreviation']})")
+st.title(f"🧪 {selected['name']}")
 
-# 이미지 표시
-if "page_1_image" in polymer:
-    st.subheader("📄 Page 1 (구조식, Pyrogram, Peak Table)")
-    st.image(Image.open(polymer["page_1_image"]))
+st.subheader("📄 페이지 1")
+st.image(Image.open(selected["page_1_image"]))
 
-if "page_2_image" in polymer:
-    st.subheader("📄 Page 2 (Mass Spectra, EGA, Top 10 MS)")
-    st.image(Image.open(polymer["page_2_image"]))
+st.subheader("📄 페이지 2")
+st.image(Image.open(selected["page_2_image"]))
 
-# 열분해 온도 정보
-if "decomposition_temp" in polymer:
-    dt = polymer["decomposition_temp"]
-    st.info(f"열분해 온도 범위: {dt['start']}°C ~ {dt['end']}°C (peak: {dt['peak']}°C)")
+st.markdown("---")
+st.caption("열분해 GC/MS 데이터북 기반 스트림릿 뷰어")
