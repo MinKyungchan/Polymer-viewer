@@ -1,6 +1,7 @@
 # NOTE: This version avoids importing Streamlit unless explicitly run in a compatible environment.
 import json
 import os
+from PIL import Image  # 이미지 처리를 위해 추가
 
 # Helper to render polymer info in a console environment if needed
 def render_polymer_console(data):
@@ -42,28 +43,28 @@ try:
 
     st.subheader("🧬 화학 구조식")
     with open(polymer["structure_image"], "rb") as f:
-        st.image(f)
+        st.image(Image.open(f))
 
     st.subheader("📈 Pyrogram (열분해 크로마토그램)")
     with open(polymer["pyrogram_image"], "rb") as f:
-        st.image(f)
+        st.image(Image.open(f))
     st.caption("Pyrogram에서 얻어진 주요 피크 데이터:")
     with open(polymer["peaks_table_image"], "rb") as f:
-        st.image(f)
+        st.image(Image.open(f))
 
     st.subheader("🌡️ EGA Thermogram")
     with open(polymer["ega_image"], "rb") as f:
-        st.image(f)
+        st.image(Image.open(f))
     dt = polymer["decomposition_temp"]
     st.info(f"열분해 온도 범위: {dt['start']}°C ~ {dt['end']}°C (peak: {dt['peak']}°C)")
 
     st.subheader("💥 평균 Mass Spectrum")
     with open(polymer["avg_spectrum_image"], "rb") as f:
-        st.image(f)
+        st.image(Image.open(f))
 
     st.subheader("🔬 Top 10 MS 스펙트럼")
     with open(polymer["ms_spectra_image"], "rb") as f:
-        st.image(f)
+        st.image(Image.open(f))
 
     st.markdown("---")
     st.markdown("ⓘ 이 뷰어는 Pyrolysis-GC/MS 데이터북 기반입니다. 아이패드에서도 사용 가능: 웹으로 접속하세요!")
