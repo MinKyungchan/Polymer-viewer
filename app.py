@@ -1,57 +1,73 @@
-import streamlit as st
+# NOTE: This version avoids importing Streamlit unless explicitly run in a compatible environment.
 import json
-from PIL import Image
+import os
 
-# Load data
+# Helper to render polymer info in a console environment if needed
+def render_polymer_console(data):
+    print("Available polymers:")
+    for item in data:
+        print(f"{item['id']}: {item['name']} ({item['abbreviation']})")
+    selected_id = input("Enter polymer ID to view details: ")
+    polymer = next((p for p in data if p['id'] == selected_id), None)
+    if not polymer:
+        print("Polymer not found.")
+        return
+    print(f"\n--- {polymer['name']} ({polymer['abbreviation']}) ---")
+    print(f"Structure Image: polymer_images/{polymer['structure_image']}")
+    print(f"Pyrogram Image: polymer_images/{polymer['pyrogram_image']}")
+    print(f"Peak Table Image: polymer_images/{polymer['peaks_table_image']}")
+    print(f"EGA Image: polymer_images/{polymer['ega_image']}")
+    print(f"Decomposition Temp: {polymer['decomposition_temp']['start']}°C - {polymer['decomposition_temp']['end']}°C (peak: {polymer['decomposition_temp']['peak']}°C)")
+    print(f"Average Spectrum: polymer_images/{polymer['avg_spectrum_image']}")
+    print(f"Top 10 MS Spectra: polymer_images/{polymer['ms_spectra_image']}")
+
+# Load polymer data
 with open("polymer_data.json", "r") as f:
     data = json.load(f)
 
-# Custom CSS
-st.markdown("""
-    <style>
-    .main { background-color: #f9f9f9; }
-    h1, h2, h3 { color: #1c1c1c; }
-    .stButton>button {
-        background-color: #4CAF50;
-        color: white;
-        font-weight: bold;
-        padding: 0.4em 1em;
-    }
-    .stSidebar .sidebar-content {
-        background-color: #f0f0f0;
-    }
-    </style>
-""", unsafe_allow_html=True)
+# Check if Streamlit is available
+try:
+    import streamlit as st
 
-# Sidebar
-st.sidebar.title("🔍 Polymer 검색")
+    # Sidebar - Polymer selection
+    st.sidebar.title("🔍 Polymer 검색")
+    polymer_options = [f"{item['id']} - {item['name']}" for item in data]
+    selected_polymer = st.sidebar.selectbox("폴리머를 선택하세요:", polymer_options)
 
-# Search/filter
-search_term = st.sidebar.text_input("이름 또는 약어 검색:")
-filtered_data = [d for d in data if search_term.lower() in d['name'].lower()] if search_term else data
-options = [f"{d['id']} - {d['name']}" for d in filtered_data]
-choice = st.sidebar.selectbox("폴리머를 선택하세요", options)
-selected = filtered_data[options.index(choice)]
+    # Get selected polymer info
+    polymer = data[polymer_options.index(selected_polymer)]
 
-# Header
-st.markdown(f"## 🧪 {selected['name']}")
-st.markdown(f"**Abbreviation:** `{selected['abbreviation']}`")
+    # Main View
+    st.title(f"🧪 {polymer['name']} ({polymer['abbreviation']})")
 
-# Summary info
-st.markdown("### 🌡 열분해 온도 정보")
-st.success(f"""
-- **온도 범위:** {selected['decomposition_temp']['start']}°C ~ {selected['decomposition_temp']['end']}°C  
-- **최대 피크 온도:** {selected['decomposition_temp']['peak']}°C
-""")
+    st.subheader("🧬 화학 구조식")
+    with open(os.path.join("polymer_images", polymer["structure_image"]), "rb") as f:
+        st.image(f)
 
-# Images layout
-cols = st.columns(2)
-with cols[0]:
-    st.markdown("#### 📄 Page 1")
-    st.image(Image.open(selected["page_1_image"]))
-with cols[1]:
-    st.markdown("#### 📄 Page 2")
-    st.image(Image.open(selected["page_2_image"]))
+    st.subheader("📈 Pyrogram (열분해 크로마토그램)")
+    with open(os.path.join("polymer_images", polymer["pyrogram_image"]), "rb") as f:
+        st.image(f)
+    st.caption("Pyrogram에서 얻어진 주요 피크 데이터:")
+    with open(os.path.join("polymer_images", polymer["peaks_table_image"]), "rb") as f:
+        st.image(f)
 
-st.markdown("---")
-st.caption("Pyrolysis-GC/MS 데이터북 기반 스트림릿 앱입니다.")
+    st.subheader("🌡️ EGA Thermogram")
+    with open(os.path.join("polymer_images", polymer["ega_image"]), "rb") as f:
+        st.image(f)
+    dt = polymer["decomposition_temp"]
+    st.info(f"열분해 온도 범위: {dt['start']}°C ~ {dt['end']}°C (peak: {dt['peak']}°C)")
+
+    st.subheader("💥 평균 Mass Spectrum")
+    with open(os.path.join("polymer_images", polymer["avg_spectrum_image"]), "rb") as f:
+        st.image(f)
+
+    st.subheader("🔬 Top 10 MS 스펙트럼")
+    with open(os.path.join("polymer_images", polymer["ms_spectra_image"]), "rb") as f:
+        st.image(f)
+
+    st.markdown("---")
+    st.markdown("ⓘ 이 뷰어는 Pyrolysis-GC/MS 데이터북 기반입니다. 아이패드에서도 사용 가능: 웹으로 접속하세요!")
+
+except ModuleNotFoundError:
+    print("[INFO] Streamlit not found. Falling back to console mode.")
+    render_polymer_console(data)
