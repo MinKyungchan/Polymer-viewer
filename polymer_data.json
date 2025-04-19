@@ -1,34 +1,14 @@
 [
-    {
-        "id": "001",
-        "name": "Polyethylene (High Density)",
-        "abbreviation": "PE(HDPE)",
-        "structure_image": "001_structure.png",
-        "pyrogram_image": "001_pyrogram.png",
-        "peaks_table_image": "001_peaks.png",
-        "ega_image": "001_ega.png",
-        "avg_spectrum_image": "001_avg_spectrum.png",
-        "ms_spectra_image": "001_ms_all.png",
-        "decomposition_temp": {
-            "start": 400,
-            "peak": 480,
-            "end": 530
-        }
-    },
-    {
-        "id": "002",
-        "name": "Polypropylene (Isotactic)",
-        "abbreviation": "iso-PP",
-        "structure_image": "002_structure.png",
-        "pyrogram_image": "002_pyrogram.png",
-        "peaks_table_image": "002_peaks.png",
-        "ega_image": "002_ega.png",
-        "avg_spectrum_image": "002_avg_spectrum.png",
-        "ms_spectra_image": "002_ms_all.png",
-        "decomposition_temp": {
-            "start": 350,
-            "peak": 450,
-            "end": 550
-        }
+  {
+    "id": "001",
+    "name": "Polyethylene (High Density)",
+    "abbreviation": "PE(HDPE)",
+    "page_1_image": "001_pg1.png",
+    "page_2_image": "001_pg2.png",
+    "decomposition_temp": {
+      "start": 400,
+      "peak": 480,
+      "end": 530
     }
+  }
 ]
