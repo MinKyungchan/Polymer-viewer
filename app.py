@@ -41,23 +41,29 @@ try:
     st.title(f"🧪 {polymer['name']} ({polymer['abbreviation']})")
 
     st.subheader("🧬 화학 구조식")
-    st.image(os.path.join("polymer_images", polymer["structure_image"]))
+    with open(os.path.join("polymer_images", polymer["structure_image"]), "rb") as f:
+        st.image(f)
 
     st.subheader("📈 Pyrogram (열분해 크로마토그램)")
-    st.image(os.path.join("polymer_images", polymer["pyrogram_image"]))
+    with open(os.path.join("polymer_images", polymer["pyrogram_image"]), "rb") as f:
+        st.image(f)
     st.caption("Pyrogram에서 얻어진 주요 피크 데이터:")
-    st.image(os.path.join("polymer_images", polymer["peaks_table_image"]))
+    with open(os.path.join("polymer_images", polymer["peaks_table_image"]), "rb") as f:
+        st.image(f)
 
     st.subheader("🌡️ EGA Thermogram")
-    st.image(os.path.join("polymer_images", polymer["ega_image"]))
+    with open(os.path.join("polymer_images", polymer["ega_image"]), "rb") as f:
+        st.image(f)
     dt = polymer["decomposition_temp"]
     st.info(f"열분해 온도 범위: {dt['start']}°C ~ {dt['end']}°C (peak: {dt['peak']}°C)")
 
     st.subheader("💥 평균 Mass Spectrum")
-    st.image(os.path.join("polymer_images", polymer["avg_spectrum_image"]))
+    with open(os.path.join("polymer_images", polymer["avg_spectrum_image"]), "rb") as f:
+        st.image(f)
 
     st.subheader("🔬 Top 10 MS 스펙트럼")
-    st.image(os.path.join("polymer_images", polymer["ms_spectra_image"]))
+    with open(os.path.join("polymer_images", polymer["ms_spectra_image"]), "rb") as f:
+        st.image(f)
 
     st.markdown("---")
     st.markdown("ⓘ 이 뷰어는 Pyrolysis-GC/MS 데이터북 기반입니다. 아이패드에서도 사용 가능: 웹으로 접속하세요!")
