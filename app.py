@@ -17,12 +17,15 @@ polymer = data[options.index(selection)]
 st.title(f"🧪 {polymer['name']} ({polymer['abbreviation']})")
 
 # 이미지 표시
-st.subheader("📄 Page 1 (구조식, Pyrogram, Peak Table)")
-st.image(Image.open(polymer["page_1_image"]))
+if "page_1_image" in polymer:
+    st.subheader("📄 Page 1 (구조식, Pyrogram, Peak Table)")
+    st.image(Image.open(polymer["page_1_image"]))
 
-st.subheader("📄 Page 2 (Mass Spectra, EGA, Top 10 MS)")
-st.image(Image.open(polymer["page_2_image"]))
+if "page_2_image" in polymer:
+    st.subheader("📄 Page 2 (Mass Spectra, EGA, Top 10 MS)")
+    st.image(Image.open(polymer["page_2_image"]))
 
 # 열분해 온도 정보
-dt = polymer["decomposition_temp"]
-st.info(f"열분해 온도 범위: {dt['start']}°C ~ {dt['end']}°C (peak: {dt['peak']}°C)")
+if "decomposition_temp" in polymer:
+    dt = polymer["decomposition_temp"]
+    st.info(f"열분해 온도 범위: {dt['start']}°C ~ {dt['end']}°C (peak: {dt['peak']}°C)")
