@@ -1,14 +1,1958 @@
 [
   {
     "id": "001",
-    "name": "Polyethylene (High Density)",
-    "abbreviation": "PE(HDPE)",
+    "name": "Polymer 001",
+    "abbreviation": "P001",
     "page_1_image": "001_pg1.png",
     "page_2_image": "001_pg2.png",
     "decomposition_temp": {
-      "start": 400,
-      "peak": 480,
-      "end": 530
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "002",
+    "name": "Polymer 002",
+    "abbreviation": "P002",
+    "page_1_image": "002_pg1.png",
+    "page_2_image": "002_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "003",
+    "name": "Polymer 003",
+    "abbreviation": "P003",
+    "page_1_image": "003_pg1.png",
+    "page_2_image": "003_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "004",
+    "name": "Polymer 004",
+    "abbreviation": "P004",
+    "page_1_image": "004_pg1.png",
+    "page_2_image": "004_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "005",
+    "name": "Polymer 005",
+    "abbreviation": "P005",
+    "page_1_image": "005_pg1.png",
+    "page_2_image": "005_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "006",
+    "name": "Polymer 006",
+    "abbreviation": "P006",
+    "page_1_image": "006_pg1.png",
+    "page_2_image": "006_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "007",
+    "name": "Polymer 007",
+    "abbreviation": "P007",
+    "page_1_image": "007_pg1.png",
+    "page_2_image": "007_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "008",
+    "name": "Polymer 008",
+    "abbreviation": "P008",
+    "page_1_image": "008_pg1.png",
+    "page_2_image": "008_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "009",
+    "name": "Polymer 009",
+    "abbreviation": "P009",
+    "page_1_image": "009_pg1.png",
+    "page_2_image": "009_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "010",
+    "name": "Polymer 010",
+    "abbreviation": "P010",
+    "page_1_image": "010_pg1.png",
+    "page_2_image": "010_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "011",
+    "name": "Polymer 011",
+    "abbreviation": "P011",
+    "page_1_image": "011_pg1.png",
+    "page_2_image": "011_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "012",
+    "name": "Polymer 012",
+    "abbreviation": "P012",
+    "page_1_image": "012_pg1.png",
+    "page_2_image": "012_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "013",
+    "name": "Polymer 013",
+    "abbreviation": "P013",
+    "page_1_image": "013_pg1.png",
+    "page_2_image": "013_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "014",
+    "name": "Polymer 014",
+    "abbreviation": "P014",
+    "page_1_image": "014_pg1.png",
+    "page_2_image": "014_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "015",
+    "name": "Polymer 015",
+    "abbreviation": "P015",
+    "page_1_image": "015_pg1.png",
+    "page_2_image": "015_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "016",
+    "name": "Polymer 016",
+    "abbreviation": "P016",
+    "page_1_image": "016_pg1.png",
+    "page_2_image": "016_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "017",
+    "name": "Polymer 017",
+    "abbreviation": "P017",
+    "page_1_image": "017_pg1.png",
+    "page_2_image": "017_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "018",
+    "name": "Polymer 018",
+    "abbreviation": "P018",
+    "page_1_image": "018_pg1.png",
+    "page_2_image": "018_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "019",
+    "name": "Polymer 019",
+    "abbreviation": "P019",
+    "page_1_image": "019_pg1.png",
+    "page_2_image": "019_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "020",
+    "name": "Polymer 020",
+    "abbreviation": "P020",
+    "page_1_image": "020_pg1.png",
+    "page_2_image": "020_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "021",
+    "name": "Polymer 021",
+    "abbreviation": "P021",
+    "page_1_image": "021_pg1.png",
+    "page_2_image": "021_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "022",
+    "name": "Polymer 022",
+    "abbreviation": "P022",
+    "page_1_image": "022_pg1.png",
+    "page_2_image": "022_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "023",
+    "name": "Polymer 023",
+    "abbreviation": "P023",
+    "page_1_image": "023_pg1.png",
+    "page_2_image": "023_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "024",
+    "name": "Polymer 024",
+    "abbreviation": "P024",
+    "page_1_image": "024_pg1.png",
+    "page_2_image": "024_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "025",
+    "name": "Polymer 025",
+    "abbreviation": "P025",
+    "page_1_image": "025_pg1.png",
+    "page_2_image": "025_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "026",
+    "name": "Polymer 026",
+    "abbreviation": "P026",
+    "page_1_image": "026_pg1.png",
+    "page_2_image": "026_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "027",
+    "name": "Polymer 027",
+    "abbreviation": "P027",
+    "page_1_image": "027_pg1.png",
+    "page_2_image": "027_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "028",
+    "name": "Polymer 028",
+    "abbreviation": "P028",
+    "page_1_image": "028_pg1.png",
+    "page_2_image": "028_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "029",
+    "name": "Polymer 029",
+    "abbreviation": "P029",
+    "page_1_image": "029_pg1.png",
+    "page_2_image": "029_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "030",
+    "name": "Polymer 030",
+    "abbreviation": "P030",
+    "page_1_image": "030_pg1.png",
+    "page_2_image": "030_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "031",
+    "name": "Polymer 031",
+    "abbreviation": "P031",
+    "page_1_image": "031_pg1.png",
+    "page_2_image": "031_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "032",
+    "name": "Polymer 032",
+    "abbreviation": "P032",
+    "page_1_image": "032_pg1.png",
+    "page_2_image": "032_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "033",
+    "name": "Polymer 033",
+    "abbreviation": "P033",
+    "page_1_image": "033_pg1.png",
+    "page_2_image": "033_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "034",
+    "name": "Polymer 034",
+    "abbreviation": "P034",
+    "page_1_image": "034_pg1.png",
+    "page_2_image": "034_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "035",
+    "name": "Polymer 035",
+    "abbreviation": "P035",
+    "page_1_image": "035_pg1.png",
+    "page_2_image": "035_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "036",
+    "name": "Polymer 036",
+    "abbreviation": "P036",
+    "page_1_image": "036_pg1.png",
+    "page_2_image": "036_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "037",
+    "name": "Polymer 037",
+    "abbreviation": "P037",
+    "page_1_image": "037_pg1.png",
+    "page_2_image": "037_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "038",
+    "name": "Polymer 038",
+    "abbreviation": "P038",
+    "page_1_image": "038_pg1.png",
+    "page_2_image": "038_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "039",
+    "name": "Polymer 039",
+    "abbreviation": "P039",
+    "page_1_image": "039_pg1.png",
+    "page_2_image": "039_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "040",
+    "name": "Polymer 040",
+    "abbreviation": "P040",
+    "page_1_image": "040_pg1.png",
+    "page_2_image": "040_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "041",
+    "name": "Polymer 041",
+    "abbreviation": "P041",
+    "page_1_image": "041_pg1.png",
+    "page_2_image": "041_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "042",
+    "name": "Polymer 042",
+    "abbreviation": "P042",
+    "page_1_image": "042_pg1.png",
+    "page_2_image": "042_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "043",
+    "name": "Polymer 043",
+    "abbreviation": "P043",
+    "page_1_image": "043_pg1.png",
+    "page_2_image": "043_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "044",
+    "name": "Polymer 044",
+    "abbreviation": "P044",
+    "page_1_image": "044_pg1.png",
+    "page_2_image": "044_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "045",
+    "name": "Polymer 045",
+    "abbreviation": "P045",
+    "page_1_image": "045_pg1.png",
+    "page_2_image": "045_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "046",
+    "name": "Polymer 046",
+    "abbreviation": "P046",
+    "page_1_image": "046_pg1.png",
+    "page_2_image": "046_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "047",
+    "name": "Polymer 047",
+    "abbreviation": "P047",
+    "page_1_image": "047_pg1.png",
+    "page_2_image": "047_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "048",
+    "name": "Polymer 048",
+    "abbreviation": "P048",
+    "page_1_image": "048_pg1.png",
+    "page_2_image": "048_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "049",
+    "name": "Polymer 049",
+    "abbreviation": "P049",
+    "page_1_image": "049_pg1.png",
+    "page_2_image": "049_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "050",
+    "name": "Polymer 050",
+    "abbreviation": "P050",
+    "page_1_image": "050_pg1.png",
+    "page_2_image": "050_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "051",
+    "name": "Polymer 051",
+    "abbreviation": "P051",
+    "page_1_image": "051_pg1.png",
+    "page_2_image": "051_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "052",
+    "name": "Polymer 052",
+    "abbreviation": "P052",
+    "page_1_image": "052_pg1.png",
+    "page_2_image": "052_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "053",
+    "name": "Polymer 053",
+    "abbreviation": "P053",
+    "page_1_image": "053_pg1.png",
+    "page_2_image": "053_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "054",
+    "name": "Polymer 054",
+    "abbreviation": "P054",
+    "page_1_image": "054_pg1.png",
+    "page_2_image": "054_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "055",
+    "name": "Polymer 055",
+    "abbreviation": "P055",
+    "page_1_image": "055_pg1.png",
+    "page_2_image": "055_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "056",
+    "name": "Polymer 056",
+    "abbreviation": "P056",
+    "page_1_image": "056_pg1.png",
+    "page_2_image": "056_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "057",
+    "name": "Polymer 057",
+    "abbreviation": "P057",
+    "page_1_image": "057_pg1.png",
+    "page_2_image": "057_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "058",
+    "name": "Polymer 058",
+    "abbreviation": "P058",
+    "page_1_image": "058_pg1.png",
+    "page_2_image": "058_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "059",
+    "name": "Polymer 059",
+    "abbreviation": "P059",
+    "page_1_image": "059_pg1.png",
+    "page_2_image": "059_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "060",
+    "name": "Polymer 060",
+    "abbreviation": "P060",
+    "page_1_image": "060_pg1.png",
+    "page_2_image": "060_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "061",
+    "name": "Polymer 061",
+    "abbreviation": "P061",
+    "page_1_image": "061_pg1.png",
+    "page_2_image": "061_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "062",
+    "name": "Polymer 062",
+    "abbreviation": "P062",
+    "page_1_image": "062_pg1.png",
+    "page_2_image": "062_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "063",
+    "name": "Polymer 063",
+    "abbreviation": "P063",
+    "page_1_image": "063_pg1.png",
+    "page_2_image": "063_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "064",
+    "name": "Polymer 064",
+    "abbreviation": "P064",
+    "page_1_image": "064_pg1.png",
+    "page_2_image": "064_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "065",
+    "name": "Polymer 065",
+    "abbreviation": "P065",
+    "page_1_image": "065_pg1.png",
+    "page_2_image": "065_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "066",
+    "name": "Polymer 066",
+    "abbreviation": "P066",
+    "page_1_image": "066_pg1.png",
+    "page_2_image": "066_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "067",
+    "name": "Polymer 067",
+    "abbreviation": "P067",
+    "page_1_image": "067_pg1.png",
+    "page_2_image": "067_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "068",
+    "name": "Polymer 068",
+    "abbreviation": "P068",
+    "page_1_image": "068_pg1.png",
+    "page_2_image": "068_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "069",
+    "name": "Polymer 069",
+    "abbreviation": "P069",
+    "page_1_image": "069_pg1.png",
+    "page_2_image": "069_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "070",
+    "name": "Polymer 070",
+    "abbreviation": "P070",
+    "page_1_image": "070_pg1.png",
+    "page_2_image": "070_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "071",
+    "name": "Polymer 071",
+    "abbreviation": "P071",
+    "page_1_image": "071_pg1.png",
+    "page_2_image": "071_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "072",
+    "name": "Polymer 072",
+    "abbreviation": "P072",
+    "page_1_image": "072_pg1.png",
+    "page_2_image": "072_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "073",
+    "name": "Polymer 073",
+    "abbreviation": "P073",
+    "page_1_image": "073_pg1.png",
+    "page_2_image": "073_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "074",
+    "name": "Polymer 074",
+    "abbreviation": "P074",
+    "page_1_image": "074_pg1.png",
+    "page_2_image": "074_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "075",
+    "name": "Polymer 075",
+    "abbreviation": "P075",
+    "page_1_image": "075_pg1.png",
+    "page_2_image": "075_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "076",
+    "name": "Polymer 076",
+    "abbreviation": "P076",
+    "page_1_image": "076_pg1.png",
+    "page_2_image": "076_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "077",
+    "name": "Polymer 077",
+    "abbreviation": "P077",
+    "page_1_image": "077_pg1.png",
+    "page_2_image": "077_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "078",
+    "name": "Polymer 078",
+    "abbreviation": "P078",
+    "page_1_image": "078_pg1.png",
+    "page_2_image": "078_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "079",
+    "name": "Polymer 079",
+    "abbreviation": "P079",
+    "page_1_image": "079_pg1.png",
+    "page_2_image": "079_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "080",
+    "name": "Polymer 080",
+    "abbreviation": "P080",
+    "page_1_image": "080_pg1.png",
+    "page_2_image": "080_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "081",
+    "name": "Polymer 081",
+    "abbreviation": "P081",
+    "page_1_image": "081_pg1.png",
+    "page_2_image": "081_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "082",
+    "name": "Polymer 082",
+    "abbreviation": "P082",
+    "page_1_image": "082_pg1.png",
+    "page_2_image": "082_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "083",
+    "name": "Polymer 083",
+    "abbreviation": "P083",
+    "page_1_image": "083_pg1.png",
+    "page_2_image": "083_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "084",
+    "name": "Polymer 084",
+    "abbreviation": "P084",
+    "page_1_image": "084_pg1.png",
+    "page_2_image": "084_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "085",
+    "name": "Polymer 085",
+    "abbreviation": "P085",
+    "page_1_image": "085_pg1.png",
+    "page_2_image": "085_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "086",
+    "name": "Polymer 086",
+    "abbreviation": "P086",
+    "page_1_image": "086_pg1.png",
+    "page_2_image": "086_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "087",
+    "name": "Polymer 087",
+    "abbreviation": "P087",
+    "page_1_image": "087_pg1.png",
+    "page_2_image": "087_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "088",
+    "name": "Polymer 088",
+    "abbreviation": "P088",
+    "page_1_image": "088_pg1.png",
+    "page_2_image": "088_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "089",
+    "name": "Polymer 089",
+    "abbreviation": "P089",
+    "page_1_image": "089_pg1.png",
+    "page_2_image": "089_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "090",
+    "name": "Polymer 090",
+    "abbreviation": "P090",
+    "page_1_image": "090_pg1.png",
+    "page_2_image": "090_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "091",
+    "name": "Polymer 091",
+    "abbreviation": "P091",
+    "page_1_image": "091_pg1.png",
+    "page_2_image": "091_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "092",
+    "name": "Polymer 092",
+    "abbreviation": "P092",
+    "page_1_image": "092_pg1.png",
+    "page_2_image": "092_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "093",
+    "name": "Polymer 093",
+    "abbreviation": "P093",
+    "page_1_image": "093_pg1.png",
+    "page_2_image": "093_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "094",
+    "name": "Polymer 094",
+    "abbreviation": "P094",
+    "page_1_image": "094_pg1.png",
+    "page_2_image": "094_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "095",
+    "name": "Polymer 095",
+    "abbreviation": "P095",
+    "page_1_image": "095_pg1.png",
+    "page_2_image": "095_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "096",
+    "name": "Polymer 096",
+    "abbreviation": "P096",
+    "page_1_image": "096_pg1.png",
+    "page_2_image": "096_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "097",
+    "name": "Polymer 097",
+    "abbreviation": "P097",
+    "page_1_image": "097_pg1.png",
+    "page_2_image": "097_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "098",
+    "name": "Polymer 098",
+    "abbreviation": "P098",
+    "page_1_image": "098_pg1.png",
+    "page_2_image": "098_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "099",
+    "name": "Polymer 099",
+    "abbreviation": "P099",
+    "page_1_image": "099_pg1.png",
+    "page_2_image": "099_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "100",
+    "name": "Polymer 100",
+    "abbreviation": "P100",
+    "page_1_image": "100_pg1.png",
+    "page_2_image": "100_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "101",
+    "name": "Polymer 101",
+    "abbreviation": "P101",
+    "page_1_image": "101_pg1.png",
+    "page_2_image": "101_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "102",
+    "name": "Polymer 102",
+    "abbreviation": "P102",
+    "page_1_image": "102_pg1.png",
+    "page_2_image": "102_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "103",
+    "name": "Polymer 103",
+    "abbreviation": "P103",
+    "page_1_image": "103_pg1.png",
+    "page_2_image": "103_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "104",
+    "name": "Polymer 104",
+    "abbreviation": "P104",
+    "page_1_image": "104_pg1.png",
+    "page_2_image": "104_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "105",
+    "name": "Polymer 105",
+    "abbreviation": "P105",
+    "page_1_image": "105_pg1.png",
+    "page_2_image": "105_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "106",
+    "name": "Polymer 106",
+    "abbreviation": "P106",
+    "page_1_image": "106_pg1.png",
+    "page_2_image": "106_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "107",
+    "name": "Polymer 107",
+    "abbreviation": "P107",
+    "page_1_image": "107_pg1.png",
+    "page_2_image": "107_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "108",
+    "name": "Polymer 108",
+    "abbreviation": "P108",
+    "page_1_image": "108_pg1.png",
+    "page_2_image": "108_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "109",
+    "name": "Polymer 109",
+    "abbreviation": "P109",
+    "page_1_image": "109_pg1.png",
+    "page_2_image": "109_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "110",
+    "name": "Polymer 110",
+    "abbreviation": "P110",
+    "page_1_image": "110_pg1.png",
+    "page_2_image": "110_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "111",
+    "name": "Polymer 111",
+    "abbreviation": "P111",
+    "page_1_image": "111_pg1.png",
+    "page_2_image": "111_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "112",
+    "name": "Polymer 112",
+    "abbreviation": "P112",
+    "page_1_image": "112_pg1.png",
+    "page_2_image": "112_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "113",
+    "name": "Polymer 113",
+    "abbreviation": "P113",
+    "page_1_image": "113_pg1.png",
+    "page_2_image": "113_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "114",
+    "name": "Polymer 114",
+    "abbreviation": "P114",
+    "page_1_image": "114_pg1.png",
+    "page_2_image": "114_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "115",
+    "name": "Polymer 115",
+    "abbreviation": "P115",
+    "page_1_image": "115_pg1.png",
+    "page_2_image": "115_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "116",
+    "name": "Polymer 116",
+    "abbreviation": "P116",
+    "page_1_image": "116_pg1.png",
+    "page_2_image": "116_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "117",
+    "name": "Polymer 117",
+    "abbreviation": "P117",
+    "page_1_image": "117_pg1.png",
+    "page_2_image": "117_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "118",
+    "name": "Polymer 118",
+    "abbreviation": "P118",
+    "page_1_image": "118_pg1.png",
+    "page_2_image": "118_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "119",
+    "name": "Polymer 119",
+    "abbreviation": "P119",
+    "page_1_image": "119_pg1.png",
+    "page_2_image": "119_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "120",
+    "name": "Polymer 120",
+    "abbreviation": "P120",
+    "page_1_image": "120_pg1.png",
+    "page_2_image": "120_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "121",
+    "name": "Polymer 121",
+    "abbreviation": "P121",
+    "page_1_image": "121_pg1.png",
+    "page_2_image": "121_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "122",
+    "name": "Polymer 122",
+    "abbreviation": "P122",
+    "page_1_image": "122_pg1.png",
+    "page_2_image": "122_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "123",
+    "name": "Polymer 123",
+    "abbreviation": "P123",
+    "page_1_image": "123_pg1.png",
+    "page_2_image": "123_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "124",
+    "name": "Polymer 124",
+    "abbreviation": "P124",
+    "page_1_image": "124_pg1.png",
+    "page_2_image": "124_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "125",
+    "name": "Polymer 125",
+    "abbreviation": "P125",
+    "page_1_image": "125_pg1.png",
+    "page_2_image": "125_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "126",
+    "name": "Polymer 126",
+    "abbreviation": "P126",
+    "page_1_image": "126_pg1.png",
+    "page_2_image": "126_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "127",
+    "name": "Polymer 127",
+    "abbreviation": "P127",
+    "page_1_image": "127_pg1.png",
+    "page_2_image": "127_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "128",
+    "name": "Polymer 128",
+    "abbreviation": "P128",
+    "page_1_image": "128_pg1.png",
+    "page_2_image": "128_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "129",
+    "name": "Polymer 129",
+    "abbreviation": "P129",
+    "page_1_image": "129_pg1.png",
+    "page_2_image": "129_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "130",
+    "name": "Polymer 130",
+    "abbreviation": "P130",
+    "page_1_image": "130_pg1.png",
+    "page_2_image": "130_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "131",
+    "name": "Polymer 131",
+    "abbreviation": "P131",
+    "page_1_image": "131_pg1.png",
+    "page_2_image": "131_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "132",
+    "name": "Polymer 132",
+    "abbreviation": "P132",
+    "page_1_image": "132_pg1.png",
+    "page_2_image": "132_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "133",
+    "name": "Polymer 133",
+    "abbreviation": "P133",
+    "page_1_image": "133_pg1.png",
+    "page_2_image": "133_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "134",
+    "name": "Polymer 134",
+    "abbreviation": "P134",
+    "page_1_image": "134_pg1.png",
+    "page_2_image": "134_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "135",
+    "name": "Polymer 135",
+    "abbreviation": "P135",
+    "page_1_image": "135_pg1.png",
+    "page_2_image": "135_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "136",
+    "name": "Polymer 136",
+    "abbreviation": "P136",
+    "page_1_image": "136_pg1.png",
+    "page_2_image": "136_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "137",
+    "name": "Polymer 137",
+    "abbreviation": "P137",
+    "page_1_image": "137_pg1.png",
+    "page_2_image": "137_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "138",
+    "name": "Polymer 138",
+    "abbreviation": "P138",
+    "page_1_image": "138_pg1.png",
+    "page_2_image": "138_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "139",
+    "name": "Polymer 139",
+    "abbreviation": "P139",
+    "page_1_image": "139_pg1.png",
+    "page_2_image": "139_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "140",
+    "name": "Polymer 140",
+    "abbreviation": "P140",
+    "page_1_image": "140_pg1.png",
+    "page_2_image": "140_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "141",
+    "name": "Polymer 141",
+    "abbreviation": "P141",
+    "page_1_image": "141_pg1.png",
+    "page_2_image": "141_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "142",
+    "name": "Polymer 142",
+    "abbreviation": "P142",
+    "page_1_image": "142_pg1.png",
+    "page_2_image": "142_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "143",
+    "name": "Polymer 143",
+    "abbreviation": "P143",
+    "page_1_image": "143_pg1.png",
+    "page_2_image": "143_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "144",
+    "name": "Polymer 144",
+    "abbreviation": "P144",
+    "page_1_image": "144_pg1.png",
+    "page_2_image": "144_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "145",
+    "name": "Polymer 145",
+    "abbreviation": "P145",
+    "page_1_image": "145_pg1.png",
+    "page_2_image": "145_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "146",
+    "name": "Polymer 146",
+    "abbreviation": "P146",
+    "page_1_image": "146_pg1.png",
+    "page_2_image": "146_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "147",
+    "name": "Polymer 147",
+    "abbreviation": "P147",
+    "page_1_image": "147_pg1.png",
+    "page_2_image": "147_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "148",
+    "name": "Polymer 148",
+    "abbreviation": "P148",
+    "page_1_image": "148_pg1.png",
+    "page_2_image": "148_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "149",
+    "name": "Polymer 149",
+    "abbreviation": "P149",
+    "page_1_image": "149_pg1.png",
+    "page_2_image": "149_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "150",
+    "name": "Polymer 150",
+    "abbreviation": "P150",
+    "page_1_image": "150_pg1.png",
+    "page_2_image": "150_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "151",
+    "name": "Polymer 151",
+    "abbreviation": "P151",
+    "page_1_image": "151_pg1.png",
+    "page_2_image": "151_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "152",
+    "name": "Polymer 152",
+    "abbreviation": "P152",
+    "page_1_image": "152_pg1.png",
+    "page_2_image": "152_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "153",
+    "name": "Polymer 153",
+    "abbreviation": "P153",
+    "page_1_image": "153_pg1.png",
+    "page_2_image": "153_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "154",
+    "name": "Polymer 154",
+    "abbreviation": "P154",
+    "page_1_image": "154_pg1.png",
+    "page_2_image": "154_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "155",
+    "name": "Polymer 155",
+    "abbreviation": "P155",
+    "page_1_image": "155_pg1.png",
+    "page_2_image": "155_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "156",
+    "name": "Polymer 156",
+    "abbreviation": "P156",
+    "page_1_image": "156_pg1.png",
+    "page_2_image": "156_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "157",
+    "name": "Polymer 157",
+    "abbreviation": "P157",
+    "page_1_image": "157_pg1.png",
+    "page_2_image": "157_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "158",
+    "name": "Polymer 158",
+    "abbreviation": "P158",
+    "page_1_image": "158_pg1.png",
+    "page_2_image": "158_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "159",
+    "name": "Polymer 159",
+    "abbreviation": "P159",
+    "page_1_image": "159_pg1.png",
+    "page_2_image": "159_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "160",
+    "name": "Polymer 160",
+    "abbreviation": "P160",
+    "page_1_image": "160_pg1.png",
+    "page_2_image": "160_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "161",
+    "name": "Polymer 161",
+    "abbreviation": "P161",
+    "page_1_image": "161_pg1.png",
+    "page_2_image": "161_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "162",
+    "name": "Polymer 162",
+    "abbreviation": "P162",
+    "page_1_image": "162_pg1.png",
+    "page_2_image": "162_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
+    }
+  },
+  {
+    "id": "163",
+    "name": "Polymer 163",
+    "abbreviation": "P163",
+    "page_1_image": "163_pg1.png",
+    "page_2_image": "163_pg2.png",
+    "decomposition_temp": {
+      "start": 300,
+      "peak": 400,
+      "end": 500
     }
   }
 ]
